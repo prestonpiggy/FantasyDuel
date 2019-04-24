@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyDuel_0.54", "FantasyDuel_0.54.csproj", "{0A59AE5E-81BC-7F44-9B0A-053B429EF899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyDuel_0.54.Editor", "FantasyDuel_0.54.Editor.csproj", "{7FCFD653-8AC7-F511-6FA0-76F81BE9647B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A59AE5E-81BC-7F44-9B0A-053B429EF899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A59AE5E-81BC-7F44-9B0A-053B429EF899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A59AE5E-81BC-7F44-9B0A-053B429EF899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A59AE5E-81BC-7F44-9B0A-053B429EF899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCFD653-8AC7-F511-6FA0-76F81BE9647B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCFD653-8AC7-F511-6FA0-76F81BE9647B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCFD653-8AC7-F511-6FA0-76F81BE9647B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCFD653-8AC7-F511-6FA0-76F81BE9647B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,143 @@
+[
+{
+	"id": 0,
+	"title": "Steel Sword",
+	"value": 6,
+	"type": "weapon",
+	"stats":{
+	"attack": 20,
+	"vitality" : 10,
+	"defence" : 0
+	},
+	"description": "Normal Steel sword",
+	"stackable" : false,
+	"rarity": "Uncommon",
+	"slug": "steel_sword"
+},
+{
+	"id": 1,
+	"title": "Adamant Sword",
+	"value": 10,
+	"type": "weapon",
+	"stats":{
+	"attack": 50,
+	"vitality" : 20,
+	"defence" : 0
+	},
+	"description": "Great Adamant sword",
+	"stackable" : true,
+	"rarity": "Rare",
+	"slug": "adamant_sword"
+},
+{
+    "id": 2,
+	"title": "Bronze helmet",
+	"value": 5,
+	"type": "head",
+	"stats":{
+	"attack": 0,
+	"vitality" : 25,
+	"defence" : 10
+	},
+	"description": "Helmet made of Bronze",
+	"stackable" : true,
+	"rarity": "Common",
+	"slug": "bronze_helmet"
+}
+,
+{
+    "id": 3,
+	"title": "Bronze shield",
+	"value": 10,
+	"type": "weapon",
+	"stats":{
+	"attack": 0,
+	"vitality" : 50,
+	"defence" : 15
+	},
+	"description": "Ordinary shield made of Bronze",
+	"stackable" : false,
+	"rarity": "Common",
+	"slug": "bronze_shield"
+}
+,
+{
+    "id": 4,
+	"title": "Steel boots",
+	"value": 7,
+	"type": "feet",
+	"stats":{
+	"attack": 0,
+	"vitality" : 20,
+	"defence" : 5
+	},
+	"description": "Boots of steel :D",
+	"stackable" : false,
+	"rarity": "Common",
+	"slug": "steel_boots"
+}
+,
+{
+    "id": 5,
+	"title": "Steel breastplate",
+	"value": 40,
+	"type": "chest",
+	"stats":{
+	"attack": 0,
+	"vitality" : 40,
+	"defence" : 25
+	},
+	"description": "Steel breasts oh yeah",
+	"stackable" : false,
+	"rarity": "Uncommon",
+	"slug": "steel_breastplate"
+}
+,
+{
+    "id": 6,
+	"title": "Steel Gloves",
+	"value": 12,
+	"type": "hands",
+	"stats":{
+	"attack": 0,
+	"vitality" : 25,
+	"defence" : 15
+	},
+	"description": "Your trusty hand warmers",
+	"stackable" : true,
+	"rarity": "Common",
+	"slug": "steel_gloves"
+}
+,
+{
+    "id": 7,
+	"title": "Steel Shoulderplates",
+	"value": 35,
+	"type": "shoulder",
+	"stats":{
+	"attack": 0,
+	"vitality" : 35,
+	"defence" : 15
+	},
+	"description": "No, they will not make you look better",
+	"stackable" : false,
+	"rarity": "Uncommon",
+	"slug": "steel_shoulderplates"
+}
+,
+{
+    "id": 8,
+	"title": "Health Potion",
+	"value": 25,
+	"type": "Consumable",
+	"stats":{
+	"attack": 0,
+	"vitality" : 0,
+	"defence" : 0
+	},
+	"description": "Restores 1/4 health on battle",
+	"stackable" : true,
+	"rarity": "Common",
+	"slug": "Health_Potion"
+}
+]

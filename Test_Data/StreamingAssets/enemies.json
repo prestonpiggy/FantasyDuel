@@ -1,0 +1,41 @@
+[
+{
+	"id": 0,
+	"title": "Goblin",
+	"stats":{
+	"attack": 30,
+	"vitality" : 100,
+	"defence" : 10,
+	"experience" : 50,
+	"numberofhits" : 3
+	},
+	"description": "",
+	"slug": "goblin"
+},
+{
+	"id": 1,
+	"title": "Imp",
+	"stats":{
+	"attack": 50,
+	"vitality" : 60,
+	"defence" : 5,
+	"experience" : 60,
+	"numberofhits" : 3
+	},
+	"description": "",
+	"slug": "imp"
+},
+{
+	"id": 2,
+	"title": "Darkling",
+	"stats":{
+	"attack": 60,
+	"vitality" : 70,
+	"defence" : 15,
+	"experience" : 100,
+	"numberofhits" : 4
+	},
+	"description": "",
+	"slug": "darkling"
+}
+]
